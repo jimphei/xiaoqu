@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+require("aaaaaa.php");
+$weixiaoqu->show();
 ?>
